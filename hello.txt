@@ -1,2 +1,2 @@
 Hi its git practice
-Hi i have added new line and this is for new_feature_1 branch
+Hi i have added new line and this is for new_feature_1 branch conflict new_feature_1
